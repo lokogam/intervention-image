@@ -92,3 +92,7 @@
         }) */
     </script>
 @endsection
+{{-- https://sweetalert2.github.io/#download --}}
+{{-- https://cdnjs.com/libraries/dropzone --}}
+{{-- https://image.intervention.io/v3 --}}
+{{--  --}}
